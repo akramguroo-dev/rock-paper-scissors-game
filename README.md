@@ -16,7 +16,7 @@ An interactive Rock-Paper-Scissors game with an autoplay feature.
 ![Project Demo](./screenshots/demo.png)
 
 ## Live Demo
-(https://akramguroo-dev.github.io/rock-paper-scissors-game/)
+🔗 [View Project on GitHub Pages](https://akramguroo-dev.github.io/rock-paper-scissors-game/)
 
 ## Author
 - Akram Guroo (github.com/akramguroo-dev)
